@@ -1,2 +1,2 @@
-# News homepage
+# NFT Card
 ## Check this [project!]() 
