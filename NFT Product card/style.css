@@ -14,8 +14,10 @@ body{
 }
 
 .card{
-    width: 17%;
-    height: 57%;
+    width: 320px;
+    min-width: 320px;
+    height: 570px;
+    min-height: 570px;
     background-color: hsl(214, 50%, 20%);
     border-radius: 10px;
     padding: 20px;
@@ -94,7 +96,7 @@ span{
 
 .creator-text{
     margin-left: 20px;
-    color: hsl(215, 51%, 70%);
+    color:hsl(215, 51%, 70%);
     font-size: 13px;
     font-family: sans-serif;
 }
